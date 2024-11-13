@@ -1,7 +1,7 @@
 # Generative AI workshop
 This repository demonstrates the process of fine-tuning large language models (LLMs) and hosting them on your local machine, specifically focusing on the LLAMA model. The guide covers the following:
 > **[Hosting LLAMA on Your Laptop:](docs/hosting_ollama.md)** A step-by-step approach to running the LLAMA model locally with minimal resource requirements.  
-> **[LAN Accessibility:](docs/ollama_commands.md)** Making the model accessible across a local network (LAN).  
+> **[LAN Accessibility:](docs/ollama_command.md)** Making the model accessible across a local network (LAN).  
 > **[Microservice Deployment:](docs/ollama_with_python.md)** How to serve the LLM as a REST API.  
 > **[Multi-Modal LLM Examples:](docs/ollama_with_interface.md)** Demonstrating the integration of multiple modalities (e.g., text and image) to build powerful and versatile AI applications.  
 > **[LLM Fine-Tuning:](docs/finetune_llm.md)** Instructions and examples for fine-tuning pre-trained models on custom dataset.  
