@@ -1,10 +1,10 @@
 # Generative AI workshop
 This repository demonstrates the process of fine-tuning large language models (LLMs) and hosting them on your local machine, specifically focusing on the LLAMA model. The guide covers the following:
-> **[Hosting LLAMA on Your Laptop:](hosting_ollama.md)** A step-by-step approach to running the LLAMA model locally with minimal resource requirements.  
-> **[LAN Accessibility:](ollama_commands.md)** Making the model accessible across a local network (LAN).  
-> **[Microservice Deployment:](ollama_with_python.md)** How to serve the LLM as a REST API.  
-> **[Multi-Modal LLM Examples:](ollama_with_interface.md)** Demonstrating the integration of multiple modalities (e.g., text and image) to build powerful and versatile AI applications.  
-> **[LLM Fine-Tuning:](finetune_llm.md)** Instructions and examples for fine-tuning pre-trained models on custom dataset.  
+> **[Hosting LLAMA on Your Laptop:](docs/hosting_ollama.md)** A step-by-step approach to running the LLAMA model locally with minimal resource requirements.  
+> **[LAN Accessibility:](docs/ollama_commands.md)** Making the model accessible across a local network (LAN).  
+> **[Microservice Deployment:](docs/ollama_with_python.md)** How to serve the LLM as a REST API.  
+> **[Multi-Modal LLM Examples:](docs/ollama_with_interface.md)** Demonstrating the integration of multiple modalities (e.g., text and image) to build powerful and versatile AI applications.  
+> **[LLM Fine-Tuning:](docs/finetune_llm.md)** Instructions and examples for fine-tuning pre-trained models on custom dataset.  
 
 ## What is [Ollama](https://ollama.com/)
 Ollama is an open-source framework designed to simplify the development and deployment of large language models (LLMs), particularly for tasks like fine-tuning, serving, and scaling models in real-world applications. Built with a focus on ease of use, flexibility, and performance, Ollama offers several key features that make it highly useful for both developers and researchers working with LLMs.
