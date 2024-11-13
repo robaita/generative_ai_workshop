@@ -1,5 +1,6 @@
 # OLLAMA with OpenWebUI
 ## What is OpenWebUI
+Open Web UI (OWUI) is an open-source framework for building cross-platform desktop applications using web technologies. It provides a customizable, modular design with pre-built components and state management capabilities. Ideal for rapid prototyping, collaboration, and scalability, OWUI simplifies development without sacrificing native-like experiences across various operating systems.   
 
 ## Installation of OpenWebUI
 ### Docker Installation
@@ -48,4 +49,6 @@ After the docker is running
 Open the below address in the browser    
 ``` http://localhost:3000 ```   
 The browser then should show the below page.   
-![Interface image](https://github.com/robaita/generative_ai_workshop/blob/main/images/openwebui.png)
+![Interface image](https://github.com/robaita/generative_ai_workshop/blob/main/images/openwebui.png)   
+
+**Here the llama model is shown that is deployed in Ollama, that shows that Ollama and Open Web UI are communicating with each other.**
