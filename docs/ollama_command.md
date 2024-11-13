@@ -30,7 +30,11 @@ Serve a particular model to access it as micro service
 > **6. Serve and Access Model via LAN**   
 Serve a particular model to access it as micro service in LAN  
 ```set OLLAMA_HOST=0.0.0.0 ```  
-```ollama serve```  
+```ollama serve```
+
+> **6. Ollama Version**   
+To check current Ollama version   
+```ollama -- version``` 
 
 
 
