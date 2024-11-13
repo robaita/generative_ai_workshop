@@ -1,10 +1,10 @@
 # Generative AI workshop
 This repository demonstrates the process of fine-tuning large language models (LLMs) and hosting them on your local machine, specifically focusing on the LLAMA model. The guide covers the following:
-> **LLM Fine-Tuning:** Instructions and examples for fine-tuning pre-trained models on custom dataset.  
 > **Hosting LLAMA on Your Laptop:** A step-by-step approach to running the LLAMA model locally with minimal resource requirements.  
 > **LAN Accessibility:** Making the model accessible across a local network (LAN).  
 > **Microservice Deployment:** How to serve the LLM as a REST API.  
 > **Multi-Modal LLM Examples:** Demonstrating the integration of multiple modalities (e.g., text and image) to build powerful and versatile AI applications.
+> **LLM Fine-Tuning:** Instructions and examples for fine-tuning pre-trained models on custom dataset.  
 
 ## Hosting OLLAMA on Your Laptop
 Ollama is an open-source framework designed to simplify the development and deployment of large language models (LLMs), particularly for tasks like fine-tuning, serving, and scaling models in real-world applications. Built with a focus on ease of use, flexibility, and performance, Ollama offers several key features that make it highly useful for both developers and researchers working with LLMs.
