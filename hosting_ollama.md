@@ -1,7 +1,8 @@
 # Hosting OLLAMA on Your Laptop
 ## Installing Ollama on Windows
 > **Download the Ollama Installer:**  
-Go to the Ollama official website and download the Windows installer (.exe) for the latest version.  
+Go to the [Ollama official website](https://ollama.com/download/OllamaSetup.exe) and download the Windows installer (.exe) for the latest version.   
+
 > **Run the Installer:**  
 Double-click the downloaded .exe file and follow the on-screen instructions to install Ollama on your system.  
 
@@ -17,12 +18,8 @@ You can now start using Ollama by running commands through the Command Prompt or
 > **Download the Ollama Package:**    
 Visit the Ollama website and download the appropriate .deb (for Debian/Ubuntu) or .rpm (for Fedora/CentOS) package for your Linux distribution.
 
-> **Install the Package:**
-For Debian/Ubuntu:   
-``` sudo dpkg -i ollama_<version>.deb ```   
-``` sudo apt-get install -f ```   
-For Fedora/CentOS:   
-```sudo rpm -i ollama-<version>.rpm```
+> **Install the Package:**    
+```curl -fsSL https://ollama.com/install.sh | sh```
 
 > **Verify Installation:**   
 Open a terminal and check the installation by running:   
@@ -38,7 +35,7 @@ If you have Homebrew installed on your Mac, the easiest way to install Ollama is
 ``` brew install ollama```   
 
 > **Install via Manual Download:**   
-Alternatively, you can download the .pkg installer from the Ollama website.
+Alternatively, you can [download](https://ollama.com/download/Ollama-darwin.zip) the .pkg installer from the Ollama website.
 Double-click the .pkg file and follow the installation instructions.
 
 > **Verify Installation:**   
