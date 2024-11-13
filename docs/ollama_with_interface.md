@@ -52,3 +52,7 @@ The browser then should show the below page.
 ![Interface image](https://github.com/robaita/generative_ai_workshop/blob/main/images/openwebui.png)   
 
 **Here the llama model is shown that is deployed in Ollama, that shows that Ollama and Open Web UI are communicating with each other.**
+
+### Multi Modal LLM
+**LLAMA 3.2 Vision Model Integration with Interface**   
+![Vision Model](https://github.com/robaita/generative_ai_workshop/blob/main/images/vision_model.png)  
