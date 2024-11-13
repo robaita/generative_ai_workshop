@@ -6,7 +6,7 @@ This repository demonstrates the process of fine-tuning large language models (L
 > **Microservice Deployment:** How to serve the LLM as a REST API.  
 > **Multi-Modal LLM Examples:** Demonstrating the integration of multiple modalities (e.g., text and image) to build powerful and versatile AI applications.
 
-## Hosting LLAMA on Your Laptop
+## Hosting OLLAMA on Your Laptop
 Ollama is an open-source framework designed to simplify the development and deployment of large language models (LLMs), particularly for tasks like fine-tuning, serving, and scaling models in real-world applications. Built with a focus on ease of use, flexibility, and performance, Ollama offers several key features that make it highly useful for both developers and researchers working with LLMs.
 
 ### Features of Ollama:
@@ -17,3 +17,5 @@ Ollama is an open-source framework designed to simplify the development and depl
 > **Microservice Integration:** Ollama is designed to be easily served as a microservice, making it ideal for building scalable and distributed AI systems.  
 > **LAN Accessibility:** It allows models to be deployed in a local network, ensuring that AI models are accessible remotely from multiple devices within the same network. 
 > **Minimal Resource Usage:** Ollama is optimized for use on personal machines, reducing the need for expensive cloud infrastructure while still providing powerful AI capabilities.  
+
+
