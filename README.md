@@ -18,4 +18,6 @@ Ollama is an open-source framework designed to simplify the development and depl
 > **LAN Accessibility:** It allows models to be deployed in a local network, ensuring that AI models are accessible remotely from multiple devices within the same network. 
 > **Minimal Resource Usage:** Ollama is optimized for use on personal machines, reducing the need for expensive cloud infrastructure while still providing powerful AI capabilities.  
 
+### [Hero Vired Generative AI Study Materials](docs/)
+
 
